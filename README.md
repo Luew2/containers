@@ -2,5 +2,5 @@
 
 Build status:
 
-1. [![](https://github.com/Luew2/containers/workflows/tests-fibonacci/badge.svg)](https://github.com/Luew2/containers/actions?query=workflow%3Atests-fibonacci)
-1. [![](https://github.com/Luew2/containers/workflows/tests-range/badge.svg)](https://github.com/Luew2/containers/actions?query=workflow%3Atests-range)
+[![tests-fibonacci](https://github.com/Luew2/containers/actions/workflows/tests-fibonacci.yml/badge.svg)](https://github.com/Luew2/containers/actions/workflows/tests-fibonacci.yml)
+[![tests-range](https://github.com/Luew2/containers/actions/workflows/tests-range.yml/badge.svg?branch=master)](https://github.com/Luew2/containers/actions/workflows/tests-range.yml)
